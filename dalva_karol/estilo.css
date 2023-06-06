@@ -1,0 +1,30 @@
+#cabeca{
+    background-color: rgb(97, 127, 172);
+    border-bottom:rgb(97, 127, 172); 
+    border-top: rgb(97, 127, 172);;
+    
+}
+#nome{
+    text-align: center;
+    font-size: 50px;
+    color: beige;
+    
+}
+#corpo{
+    background-color:rgb(183, 190, 202); ;
+}
+#foto{
+    text-align: center;
+
+}
+#texto{
+   font-size: medium;
+   font-family: Arial;
+   text-align: center;
+    
+}
+img{
+    margin-top: 40px;
+    width: 240px;
+    align-items: center;
+}
